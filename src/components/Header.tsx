@@ -20,6 +20,7 @@ const TimeDisplay: React.FC<TimeDisplayProps> = ({ timeZone, locale = "en-GB" })
   useEffect(() => {
     const updateTime = () => {
       const now = new Date();
+      timeZone = "Asia/Kolkata";
       const options: Intl.DateTimeFormatOptions = {
         timeZone,
         hour: "2-digit",
