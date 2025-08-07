@@ -50,9 +50,9 @@ This portfolio is developed using **Next.js**, showcasing:
 ---
 Feel free to connect or reach out:
 
-Email: your.email@example.com
+Email: naveenkumar592.t@gmail.com
 
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/naveen-kumar-tamizh-murugan
 
-GitHub: github.com/yourusername
+GitHub: https://github.com/NaveenDavidGeordge/
 
