@@ -8,7 +8,7 @@ const person = {
   },
   role: "Technical Analysist",
   avatar: "/images/avatar.jpg",
-  email: "naveenkumar.t@gmail.com",
+  email: "naveenkumar592.t@gmail.com",
   location: "Chennai/Tamil Nadu", 
   languages: ["Tamil", "English"],
 };
@@ -30,17 +30,17 @@ const social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/once-ui-system/nextjs-starter",
+    link: "https://github.com/NaveenDavidGeordge",
   },
   {
     name: "LinkedIn",
     icon: "linkedin",
-    link: "https://www.linkedin.com/company/once-ui/",
+    link: "https://www.linkedin.com/in/naveen-kumar-tamizh-murugan/",
   },
   {
-    name: "Threads",
-    icon: "threads",
-    link: "https://www.threads.com/@once_ui",
+    name: "Instagram",
+    icon: "instagram",
+    link: "https://www.instagram.com/naveen_david_geordge/",
   },
   {
     name: "Email",
@@ -59,7 +59,7 @@ const home = {
   featured: {
     display: true,
     title: <>Recent project: <strong className="ml-4">nFlows</strong></>,
-    href: "/work/building-once-ui-a-customizable-design-system",
+    href: "https://www.nflows.com/",
   },
   subline: (
     <>
@@ -90,8 +90,10 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        Actually I am from a small village in Madurai. Completed schooling in Madurai and UG in Chennai. Started my career as UI Developer and doing 
-        few projects too.. nothing else.. just a common man..
+       Detail-oriented UI Developer with experience in creating responsive, pixel-perfect user interfaces and
+performance-optimized frontends. Proficient in modern web technologies including React, Next.js, and
+Tailwind CSS. Proven ability to guide teams, maintain clean codebases, and collaborate across departments to deliver quality web applications.
+
       </>
     ),
   },
